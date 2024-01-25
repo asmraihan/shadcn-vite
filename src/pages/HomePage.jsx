@@ -16,7 +16,6 @@ const HomePage = () => {
         </AccordionContent>
       </AccordionItem>
     </Accordion>
-
   </div>;
 };
 
