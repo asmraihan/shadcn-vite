@@ -27,9 +27,7 @@ const MainLayout = () => {
 
     return (
         <div>
-            <div className="">
-                <Outlet />
-            </div>
+            <Outlet />
         </div>
     );
 };
